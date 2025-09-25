@@ -1,3 +1,6 @@
+# Entry point for predictions + orchestrating the pipeline.
+
+
 # main.py
 import torch
 import numpy as np
