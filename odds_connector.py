@@ -1,3 +1,6 @@
+#Later, connect to TheOddsAPI (replace with real API key). (STUB)
+
+
 # odds_connector.py
 import requests
 

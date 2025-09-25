@@ -1,3 +1,6 @@
+# Neural network + model loader.
+
+
 # model.py
 import torch
 import torch.nn as nn

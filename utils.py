@@ -1,3 +1,5 @@
+# Feature builder + odds conversion + bet decision.
+
 # utils.py
 import numpy as np
 
