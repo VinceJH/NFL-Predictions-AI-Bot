@@ -1,4 +1,4 @@
-**🏈 NFL Predictive Betting AI Bot (Still a work in Progress)**
+# **🏈 NFL Predictive Betting AI Bot (Still a work in Progress)**
 An end-to-end sports analytics project that predicts NFL game outcomes and highlights value betting opportunities using machine learning, live odds APIs, and injury/news data.
 
 Built with Python, PyTorch, and external data connectors (TheOddsAPI, news feeds), the bot analyzes each matchup and provides:
@@ -9,7 +9,7 @@ Built with Python, PyTorch, and external data connectors (TheOddsAPI, news feeds
 
 - Evidence-backed reasoning (injuries, trends, odds movement)
 
-**Features**
+# **Features**
 
 Data Engineering
 
@@ -52,7 +52,7 @@ Modular Codebase
 
 - main.py – Entry point for generating weekly predictions.
 
-**Tech Stack**
+# **Tech Stack**
 - Language: Python 3.10+
 
 - ML Framework: PyTorch
@@ -64,10 +64,10 @@ Modular Codebase
 - Environment: VS Code / macOS / virtualenv
 
 ⚡ Example Usage
-# Train the model
+Train the model
 python3 src/trainer.py  
 
-# Generate weekly predictions
+Generate weekly predictions
 python3 main.py
 
 Sample Output:
@@ -79,7 +79,7 @@ Week 4 Prediction:
 - Odds movement: Public money heavy on Browns, line inflated
 Confidence: 73%
 
-**Future Improvements**
+# **Future Improvements**
 - Add advanced stats (EPA/play, DVOA, etc.)
 
 - Improve NLP-driven news & injury parsing
