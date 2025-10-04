@@ -1,5 +1,6 @@
 # **🏈 NFL Predictive Betting AI Bot (Still a work in Progress)**
 An end-to-end sports analytics project that predicts NFL game outcomes and highlights value betting opportunities using machine learning, live odds APIs, and injury/news data.
+**Disclaimer: This project is for educational purposes only**
 
 Built with Python, PyTorch, and external data connectors (TheOddsAPI, news feeds), the bot analyzes each matchup and provides:
 
